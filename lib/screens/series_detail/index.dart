@@ -1,0 +1,1 @@
+export 'serie_detail.dart';
